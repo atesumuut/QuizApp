@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Bilgi_yarismasi</string>
+
+    //SORULAR
+    <string name="k1">Güneş sistemimizde 7 gezegen vardır?</string>
+    <string name="k2">Kıbrıs bir ada mıdır?</string>
+    <string name="k3">Pusulanın N harfi güneyi mi gösterir?</string>
+    <string name="k4">Manisa ili Ege bölgesinde mi yer alır?</string>
+    <string name="k5">Azerbaycan ülkesinin başkenti Bakü müdür?</string>
+    <string name="k6">Coco cola kafein içerir mi?</string>
+    <string name="k7">Şile Karadeniz bölgesinde mi alır?</string>
+    <string name="k8">(10/2)*2 işleminin sonucu 5 mıdır?</string>
+    <string name="k9">Umut Can ATEŞ tarafından yazılan bu oyun güzeldir midir?</string>
+    <string name="k10">Apple şirketi Canada da mı yer alır?</string>
+
+    <string name="o1">Türklerin ilk alfabesi Göktürk alfabesi midir?</string>
+    <string name="o2">Polonya ülkesinin başkenti Cern müdür?</string>
+    <string name="o3">Kağıdı Japonlar mı icat etmiştir?</string>
+    <string name="o4">Merkür en küçük gezegen midir?</string>
+    <string name="o5">Ülkemizin en kuzey şehri Samsun mudur?</string>
+    <string name="o6">Ay uydusuna ilk defa 1969 yılında mı ayak basılmıştır?</string>
+    <string name="o7">Ülkemizin en büyük gölü Van gölü müdür?</string>
+    <string name="o8">İlk yerli tiyatro eserimizin yazarı Şinasidir?</string>
+    <string name="o9">Uzay da ses yoktur?</string>
+    <string name="o10">Ülkemizin sınırları içindeki en uzun nehir Kızılırmak mıdır?</string>
+
+    <string name="z1">Python dilinde satır sonuna ; koymak zorunlu mudur?</string>
+    <string name="z2">Magna Carta İngiltere kralıyla yapılmış bir sözleşmedir?</string>
+    <string name="z3">Güneş sisteminin en sıcak Venüs gezegenidir?</string>
+    <string name="z4">Interface Manager, Windows işletim sisteminin eski ismidir?</string>
+    <string name="z5">Türkiye NATO birliğine 1952 yılında girmiştir?</string>
+    <string name="z6">Ayıların 42 dişi vardır?</string>
+    <string name="z7">Dünya kupasını ilk kez Uruguay kazanmıştır?</string>
+    <string name="z8">Ay 4476 kilometere çapındadır?</string>
+    <string name="z9">Kitab-ı Bahriye eserini Piri Reis yazmıştır?</string>
+    <string name="z10">Stephen CURRY NBA liginde en çok 3 sayı atan oyuncudur?</string>
+    //SORULAR
+
+
+</resources>
